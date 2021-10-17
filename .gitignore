@@ -1,6 +1,5 @@
 __pycache__
 .ipynb_checkpoints
 .vscode
-commit_folder
 data
 log_dir
