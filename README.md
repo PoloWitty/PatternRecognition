@@ -9,7 +9,7 @@ My notebook link: [notebook]( https://www.yuque.com/books/share/140d2549-0462-49
 
 | 编号    |   内容     |
 | ------ | -------------------------- |
-| L2     | **感知器（PLA与Pocket) **      |
+| L2     | **感知器（PLA与Pocket)**      |
 | L3     | **线性回归（各类优化器）** |
 | L4     | **Fisher线性判别**         |
 | L5     | **Logistics回归**          |
